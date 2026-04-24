@@ -1,0 +1,13 @@
+{
+  "name": "final_project_init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:start": "bash startup.sh",
+    "dev:ending": "bash ending.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
